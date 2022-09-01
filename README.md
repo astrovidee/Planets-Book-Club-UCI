@@ -1,5 +1,5 @@
 # Planets-Book-Club-UCI
-Book name: Planetary Astrobiology by Vikki Meadows
+Book name: Planetary Astrobiology by Vikki Meadows 
 Meeting Times: 20 pages per week, 30 minutes
 One lead person for discussion each week.
 
