@@ -1,10 +1,9 @@
 # Planets-Book-Club-UCI
 Book name: Planetary Astrobiology by Vikki Meadows
-Meeting Times:
-Do we need a lead person for the discussion?
-Are we going chapterwise?
+Meeting Times: 20 pages per week, 30 minutes
+One lead person for discussion each week.
 
 Date             | Lead (s)     |  Topic(s)        |  
 | ---------------  | ---------------- | ---------------- |
-|   Mon.   |      |  Direct Imaging          |    
-| Mon.| Vidya Venkatesan| Habitability | 
+|   Mon.   |  Vidya Venkatesan   |  Exoplanet Characterizaton          |    
+| Mon.| | Habitability | 
