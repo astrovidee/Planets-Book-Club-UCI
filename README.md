@@ -6,5 +6,5 @@ Book name: Planetary Astrobiology by Vikki Meadows
 
 Date             | Lead (s)     |  Topic(s)        |    Discussion Questions       | 
 | ---------------  | ---------------- | ---------------- |---------------- |
-|   Mon.   |  Vidya Venkatesan   |  Characterization of Exoplanet Habitability          |   1. What was the most surprising thing you learned?         |  
+|   Mon.   |  Vidya Venkatesan   |  Characterization of Exoplanet Habitability          |   1. What was the most surprising thing you learned? <br/> 2. What are some of the "open questions" in this chapter that you'd like to see tackled in the coming years? <br/> 3. Was there a topic that you would have liked to see covered in more detail? <br/> 4. Is there anything you read that you do not concur with?         |  
 | Mon.| | Habitability | 
